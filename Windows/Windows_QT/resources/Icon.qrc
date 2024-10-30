@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>logo.png</file>
+        <file>show.png</file>
+        <file>newwindows.png</file>
+        <file>port.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
